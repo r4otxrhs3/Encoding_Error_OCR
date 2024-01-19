@@ -17,5 +17,6 @@ We need to set up a few things before we can run this project. We need to instal
 ### Team: Encoding Error
 ### Team Members
 
-#### Dhritideep Saha
+#### Rittika Sarkar
 #### Souradip Pal 
+#### Subinoy Biswas
